@@ -1,0 +1,13 @@
+.header{
+    height: 10vh;
+    border: 0.3vh solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Poppins";
+}
+.content-login{
+    border: none;
+    margin: auto;
+    text-align: justify;
+}
